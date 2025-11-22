@@ -1,0 +1,7 @@
+{
+  "name": "MediKeep - Family Health Assistant",
+  "description": "A comprehensive medicine inventory, reminder, and health tracking application with AI-powered prescription analysis and symptom checking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
